@@ -69,6 +69,7 @@ class TravelItineraryPlanner
             {
                 System.out.println("- " + entry.getKey() + ": " + entry.getValue());
             }
+            ystem.out.println("Budget is Rs.200K");
             System.out.println("-----------------------------");
         }
     }
